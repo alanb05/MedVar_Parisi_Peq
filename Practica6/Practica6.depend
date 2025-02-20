@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1740048120 source:c:\users\ciencias\desktop\practica6\prac6.c
+	<stdio.h>
+	<stdlib.h>
+
+1740048120 source:c:\users\ciencias\desktop\practica6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1740048589 source:c:\users\ciencias\desktop\practica6\parisirapuano.c
+	<stdio.h>
+	<stdlib.h>
+
